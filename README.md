@@ -48,10 +48,10 @@ En **Soluciones Código Libre** nos apasiona crear soluciones digitales funciona
 ## 📫 Contacto
 
 - 🌐 [solucionescodigolibre.com](https://solucionescodigolibre.com)
-- 📧 contacto@solucionescodigolibre.com
+- 📧 solucionescodigolibre@gmail.com
 - 📱 Instagram: [@solucionescodigolibre](https://instagram.com/solucionescodigolibre)
 - 💼 Facebook: [Soluciones Código Libre](https://facebook.com/solucionescodigolibre)
-
+- 📱 Tiktok: [@codigolibre_dev]([https://instagram.com/solucionescodigolibre](https://www.tiktok.com/@cdigolibre_dev?_t=ZS-8wOhuZ1VQ5y&_r=1))
 ---
 
 ## ⚖️ Licencia
